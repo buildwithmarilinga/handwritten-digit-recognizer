@@ -35,15 +35,23 @@ This project is a Deep Learning application that recognizes handwritten digits (
 ## 📂 Project Structure
 
 digit-recognizer/
+
 │
 ├── train.py # Model training
+
 ├── predict.py # Prediction logic
+
 ├── streamlit_app.py # Web app
+
 ├── requirements.txt # Dependencies
+
 │
 ├── models/
+
 │ └── digit_model.h5 # Trained model
+
 │
+
 ├── test_images/ # Sample images
 
 
